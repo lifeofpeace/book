@@ -2,6 +2,7 @@ title: 麦田读书
 description: A simple Jekyll theme
 avatar: /assets/img/avatar.jpg
 favicon: /assets/img/favicon.jpg
+url: http://book.itmyhome.com
 google_analytics: # google analytics id
 disqus_shortname: # disqus_shortname for disqus comment system
 # Content for about page.
